@@ -1142,7 +1142,7 @@ In addition:
 
 ### Bug Fixes
 
-- avoid unnecessary lowercase coersion in component name validation ([3f0c628](https://github.com/vuejs/vue/commit/3f0c628e2c0fe6bfaecc521c96c6cc12ff24c7c4)), closes [#7237](https://github.com/vuejs/vue/issues/7237)
+- avoid unnecessary lowercase conversion in component name validation ([3f0c628](https://github.com/vuejs/vue/commit/3f0c628e2c0fe6bfaecc521c96c6cc12ff24c7c4)), closes [#7237](https://github.com/vuejs/vue/issues/7237)
 
 ### Features
 
@@ -1224,7 +1224,7 @@ In addition:
 - **ssr:** ensure hydrated class & style bindings are reactive ([5db86b4](https://github.com/vuejs/vue/commit/5db86b4e94857fdde3ae6b71e24da637bc116baa)), closes [#7063](https://github.com/vuejs/vue/issues/7063)
 - **transition:** fix out-in transition getting stuck with v-if ([#7023](https://github.com/vuejs/vue/issues/7023)) ([45d7ba8](https://github.com/vuejs/vue/commit/45d7ba842917a075d6cb2563c78210e3b9210a58)), closes [#6687](https://github.com/vuejs/vue/issues/6687)
 - **types:** expose VueConstructor ([#7002](https://github.com/vuejs/vue/issues/7002)) ([267ada0](https://github.com/vuejs/vue/commit/267ada04e8dd66f5c159dd6ba1b9f88fbbe78676))
-- **weex:** donot rethrow the captured error on weex platform ([#7024](https://github.com/vuejs/vue/issues/7024)) ([c2b1cfe](https://github.com/vuejs/vue/commit/c2b1cfe9ccd08835f2d99f6ce60f67b4de55187f))
+- **weex:** do not rethrow the captured error on weex platform ([#7024](https://github.com/vuejs/vue/issues/7024)) ([c2b1cfe](https://github.com/vuejs/vue/commit/c2b1cfe9ccd08835f2d99f6ce60f67b4de55187f))
 
 ### Features
 
